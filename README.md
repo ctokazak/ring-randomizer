@@ -1,5 +1,10 @@
 # Kimchi Tacos: voice-controlled ring-picking robot arm
 
+#Team
+Colby Okazaki
+Eric Wu(Xutao Wu)
+Antonio Nunez
+
 **AMD × LeRobot hackathon project.** Say a color out loud (or tap a button) and an SO-101 arm finds that colored ring anywhere inside a gray-tape square, picks it up, and drops it on the AMD sticker. Everything runs locally on an **AMD Ryzen AI MAX+ 395** PC.
 
 ## What it does
