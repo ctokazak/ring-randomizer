@@ -1,6 +1,4 @@
 # Kimchi Tacos: voice-controlled ring-picking robot arm
-
-#Team
 Colby Okazaki
 Eric Wu(Xutao Wu)
 Antonio Nunez
