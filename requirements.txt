@@ -1,0 +1,6 @@
+# arm control (install LeRobot with Feetech support, plus a ROCm build of PyTorch: see setup/)
+lerobot[feetech]==0.4.1
+opencv-python
+numpy
+# voice control (separate env recommended)
+faster-whisper

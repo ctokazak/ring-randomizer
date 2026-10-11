@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+debug_*.png
+*.bak*.json
+ringbot_poses.*.json
+demo_log.json
+demo_stop
